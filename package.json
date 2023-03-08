@@ -1,8 +1,8 @@
 {
-  "name": "april",
+  "name": "DetoxLife",
   "version": "1.0.0",
-  "description": "April Template",
-  "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
+  "description": "DetoxLife is a service-based startup that is focused on helping people, around the world, quit all of their bad addiction so everyone can live a healthier and happier life.",
+  "author": "Mohammed Anaf, Krish Tiwari",
   "license": "GPLv3",
   "repository": {
     "type": "git",
