@@ -14,4 +14,4 @@ Website - https://www.detoxlife.co.in
 
 Application - Under Construction
 
-Warning: It is a startup website owned by DetoxLife and not available for commercial or any other use.
+Warning: It is a startup website owned by DetoxLife team and not available for commercial or any other use.
