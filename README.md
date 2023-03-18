@@ -10,7 +10,7 @@ CoFounder - Krish Tiwari
 
 Community - <a href="https://discord.gg/qeJ33EBBwF" target="_blank">Discord</a>
 
-Website - https://www.detoxlife.co.in
+Website - https://www.detoxlife.live
 
 Application - Under Construction
 
