@@ -2,7 +2,7 @@ Title/Name - DetoxLife
 
 Sub-title/Slogan - Detox your body, Rejuvenate your soul!
 
-Description - A service-based startup that is focused on helping people, around the world, quit all of their bad addictions so everyone can live a happier and healthier life.
+Description - A service-based startup that is focused on helping people, around the world, quit all of their bad addictions so everyone can live a happier & healthier life.
 
 Founder - Mohammed Anaf Master
 
